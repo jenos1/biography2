@@ -1,6 +1,5 @@
 * {
     box-sizing: border-box;
-    text-align: center;
 }
 
 body {
@@ -34,10 +33,6 @@ a {
 	color: #d21034;
 }
 
-section {
-
-}
-
 .container {
 	width: 1024px;
 	margin: 0 auto;
@@ -55,11 +50,11 @@ section {
 
 #contact-info {
 	width: 30%;
+	text-align: left;
 }
 
 #bio-image {
 	margin-right: 20px;
 	width: 200px;
 	height: 200px;
-	/*float-left;*/
 }
